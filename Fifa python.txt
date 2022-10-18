@@ -1,0 +1,7 @@
+Name  Position Squadnumber Age 
+Ronaldo Forward 7         36
+Messi Forward  10         34
+Benzema Forward 9          34
+Lewandowski Forward 9     35
+Sadio Mane  Forward      27
+De Bruyne   Midfield     26
